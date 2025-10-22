@@ -1,0 +1,11 @@
+{
+    "people": 5,
+    "case_1": {
+        "swerve": true,
+        "reason": "Saving two lives is better than saving one, all else being equal."
+    },
+    "case_2": {
+        "swerve": false,
+        "reason": "A child's life has greater inherent value than the lives of two criminals."
+    }
+}
